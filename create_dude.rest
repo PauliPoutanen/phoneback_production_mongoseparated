@@ -1,0 +1,5 @@
+POST http://localhost:3001/api/pb
+Content-Type: application/json
+
+{ "name": "RR",
+"number": "12344" }
